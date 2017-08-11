@@ -1,0 +1,1 @@
+I added jenkins to /etc/sudoers.
