@@ -9,4 +9,5 @@ Just put them on the group discussion board or email at bjones1831@gmail.com!
 Testing Jenkins trigger #1.... SUCCESS
 Testing Jenkins trigger #2.... SUCCESS
 
-Testing Jenkins Remote #1
+Testing Jenkins Remote #1 .... SUCCESS
+Testing Jenkins Remote #2
