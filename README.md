@@ -10,4 +10,5 @@ Testing Jenkins trigger #1.... SUCCESS
 Testing Jenkins trigger #2.... SUCCESS
 
 Testing Jenkins Remote #1 .... SUCCESS
-Testing Jenkins Remote #2
+Testing Jenkins Remote #2 .... SUCCESS
+Testing Jenkins Remote #3
