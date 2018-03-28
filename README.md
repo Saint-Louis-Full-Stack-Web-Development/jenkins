@@ -7,4 +7,6 @@ Be sure to let me know your (1) GitHub name and (2) meetup.com name so I can inv
 Just put them on the group discussion board or email at bjones1831@gmail.com!
 
 Testing Jenkins trigger #1.... SUCCESS
-Testing Jenkins trigger #2....
+Testing Jenkins trigger #2.... SUCCESS
+
+Testing Jenkins Remote #1
