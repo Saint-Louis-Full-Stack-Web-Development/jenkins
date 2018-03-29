@@ -14,4 +14,5 @@ Testing Jenkins Remote #2 .... SUCCESS
 Testing Jenkins Remote #3 .... SUCCESS
 Testing Jenkins Remote #4 .... SUCCESS
 
-Testing Jenkins Remote #5
+Testing Jenkins Remote #5 .... SUCCESS
+Testing Jenkins Remote #6
